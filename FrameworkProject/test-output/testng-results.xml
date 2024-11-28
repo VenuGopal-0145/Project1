@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-28T12:28:44 IST" name="Default suite" finished-at="2024-11-28T12:28:47 IST" duration-ms="2784">
+    <groups>
+    </groups>
+    <test started-at="2024-11-28T12:28:44 IST" name="Default test" finished-at="2024-11-28T12:28:47 IST" duration-ms="2784">
+      <class name="TestCases.LogInPage">
+        <test-method signature="LogIn()[pri:0, instance:TestCases.LogInPage@7722c3c3]" started-at="2024-11-28T12:28:44 IST" name="LogIn" finished-at="2024-11-28T12:28:47 IST" duration-ms="2765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogIn -->
+      </class> <!-- TestCases.LogInPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
